@@ -1,3 +1,4 @@
 dollar -> eng
 ruppee -> hindi
 euro -> german
+noMoney -> noLang

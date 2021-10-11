@@ -1,3 +1,4 @@
 hello -> english
 namestay -> hindi
 hola -> german
+myGreet -> noLang
